@@ -1,0 +1,472 @@
+
+
+.login-menu{
+    padding: 10px !important;
+    width: 235px !important;
+}
+
+.pageheader{
+    background-color: #ffcc00;
+}
+#moneda-select{
+    float: right;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 10px;
+}
+#moneda-lbl{
+    float: left;
+}
+
+#portada-wrap{
+    width: 100%;
+    /*margin-top: 10px;*/
+
+}
+
+#franja-menu{
+    width: 100%;
+    height: 30px;
+    background-color: #e3e3e3;
+}
+
+#fondo-portada{
+    height: 345px; 
+    padding-top: 7%;
+    padding-left: 130px;
+    background-size: 100%;
+    background-repeat:no-repeat;
+    background-image: url('../images/portadas/portada-2.jpg');   
+}
+
+#buscar-destino-wrap{
+    padding:15px 20px 50px 20px;
+    /*margin-top: 100px;*/
+    background-color: rgba(192,192,192, 0.6);
+    max-width: 650px;
+    /*opacity: 0.3;*/
+}
+
+#buscar-destino-wrap .btn{
+    font-size: 25px;
+}
+
+#buscar-destino-form{
+    opacity: 1;
+}
+
+#lista-filtros{
+    background-color: #e3e3e3; 
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+
+
+#lista-tour-item{
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+#moneda-menu-item{
+    margin-left: 120px;
+    margin-left: 15px;
+    margin-top: 30px;  
+}
+
+.precio{
+
+    text-align: center;
+    width: 50%;
+    float: left;
+}
+
+.precio-desc{
+    text-align: center;
+    width: 50%;
+    float: right;  
+}
+
+.precio span{
+    text-decoration:line-through;
+    color: red;
+}
+
+.precio-desc span{
+    color: red;  
+}
+
+
+#detalle-container{
+
+    margin-top: 20px;
+
+}
+
+#detalle-desc-container{
+    margin-top: 20px;
+}
+.ver-mas-btn{
+    margin-top: 50px;
+    margin-bottom:20px;
+    width: 100%
+
+}
+.ver-mas-btn a{
+    width: 50%;
+    margin-left: 25%;
+    display: inline-block;
+}
+
+
+.columnas-portada{
+    padding: 0px !important;
+    margin-top: 10px;
+}
+
+#footer-gris{
+    background-color:#f4f4f4;  
+    height: 250px;
+    /*margin-bottom: 30px;*/
+    /*padding-top: 50px;*/
+}
+
+.menu-footer{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.menu-footer a{
+
+    display: block;
+}
+
+.detalle-images{
+    max-width: 535px;
+    max-height: 400px; 
+}
+
+.lista-garantias ul{
+    list-style: none;
+    padding: 10px;
+}
+
+.lista-garantias ul li{
+    text-align: left;
+    font-size: 20px;
+    padding: 10px;
+}
+
+#info-footer{
+    height: 200px;
+    background-color: #268bd2;
+    padding-top: 20px;
+    font-size: 16px;
+    color: #fff;
+}
+
+#image-cart{
+    float: left;
+    width: 30%;
+}
+
+#cart-table{
+    float:right;
+    width: 70%;
+}
+
+#cart-content, #datos-content{
+    padding: 5px;
+    margin: 5px;
+    border: solid 1px #ccc;
+}
+#pago-content{
+    border: solid 1px #ccc;  
+}
+
+.imagen-membresia{
+    width: 250px;
+    margin: 20px;
+}
+.precio-membresia{
+    background-color: #0095de;
+    padding: 20px;
+    text-align: center;
+    border-radius: 15px;
+    color: #fff;
+    max-width: 260px;
+    margin: 20px;
+}
+
+.precio-lista-item{
+    border-top: solid 1px #e3e3e3;
+}   
+
+.precio-lista-item h2{
+
+}
+
+.error{
+    width: 100%;
+    color: red; 
+}
+
+.total-cart{
+
+}
+
+.nombre-adicional{
+    width: 90% !important;  
+}
+
+.edad-adicional{
+    width: 90% !important;  
+}
+.attr-nav{
+    margin-left: 15px !important;
+    margin-right: 30px !important; 
+}
+#telefono{
+    padding: 5px;
+    float: right;
+    margin-right: 35px; 
+}
+#whats{
+    padding: 5px;
+    float: right;  
+}
+
+#buscador{
+    /*    width: 250px;*/
+    float: left;
+    padding-top: 25px;
+    margin-left: 5%;}
+
+#pasos-compra{
+    padding-bottom:40px;
+    padding-top:40px;
+    padding-right: 100px;
+    padding-left: 25%;
+}
+
+#paso-1,#paso-2,#paso-3{
+    height: 100px;
+    float: left;
+    width: 25%;
+    min-width:270px;
+}
+#info-pasos{
+    /*   height: 100px;
+       width: 40%; 
+       float: left;*/
+}
+
+.count{
+    border: 2px solid #ff9600;
+    background: #fff;
+    padding: 2px 12px;
+    border-radius:100%;
+    font-size: 36px;
+    line-height: 44px;
+    width: 30px;
+    height: 30px;
+    color: #ff9600;
+    text-align: center;
+}
+
+.msg-pasos{
+    font-size: 25px;
+    min-width: 200px;
+    float: right;
+}
+.txt-pasos{
+    width: 190px;
+    float: left;
+    margin-left: 70px;
+    margin-top: -10px;
+}
+
+#pasos-wrap{
+    background-size: 100%;
+    background-repeat:no-repeat;
+    background-image: url('../images/fondo-pasos.jpg');   
+}
+
+.list-footer-menu{
+    padding-top: 50px;
+}
+
+#btn-comprar-membresias{
+    padding-left: 60px; 
+}
+#btn-buscar-portada{
+    float: right;
+    margin-right: 80px; 
+}
+#msg-afiliados{
+    margin-top: 40px;
+    background-color: rgba(192,192,192, 0.6);
+    font-size:20px;
+    padding: 20px;
+}
+#contenedor-agente{
+    background-size: 115%;
+    background-repeat:no-repeat;
+    background-image: url('../images/agentes/fondo.jpg');
+    margin-top: 40px;
+    min-height: 540px;
+    border-radius: 5px;
+}
+.fondo-gris{
+    background-color: #ebebeb;
+}
+.calculadora-agente input{
+    text-align: right;
+    margin:5px;
+    width: 80px;
+}
+#panel-calc-agente{
+    background-color: #ebebeb;
+    padding: 10px;
+}
+#titulo-portada{
+    text-shadow: 3px 2px 1px rgba(0,0,0,0.4);
+    color: white;
+    font-size: 45px;
+}
+#select-destino-portada{
+    font-size: 27px;
+    line-height: 40px;
+    height: 55px;
+    padding: 10px 40px; 
+    margin-left: 50px;
+}
+
+
+/* CSSTerm.com Simple CSS menu */
+
+.menu_simple ul {
+    margin: 0; 
+    padding: 0;
+    width:100%;
+    list-style-type: none;
+}
+
+.menu_simple ul li a {
+    text-decoration: none;
+    text-align: center;
+    color: #000000; 
+    padding: 16.5px 11px;
+    margin-bottom: 3px;
+    background-color: #ebebeb;
+    display:block;
+}
+
+.menu_simple ul li a:visited {
+    color: #000000;
+}
+
+.menu_simple ul li a:hover, .menu_simple ul li .current {
+    color: #5f6872;
+    background-color: #f4f4f4;
+}
+.alert {
+    margin-top: 10px;
+}
+
+.autocomplete-suggestions { border: 1px solid #999; background: #FFF; overflow: auto; min-width: 400px;}
+.autocomplete-suggestion { padding: 2px 5px; white-space: nowrap; overflow: hidden; }
+.autocomplete-selected { background: #F0F0F0; }
+.autocomplete-suggestions strong { font-weight: normal; color: #3399FF; }
+.autocomplete-group { padding: 2px 5px; }
+.autocomplete-group strong { display: block; border-bottom: 1px solid #000; }
+
+#preregistro-socio-portada{
+    background-image: url('../images/membresia/fondo-portada-preregistro.jpg');
+    width: 100%;
+    min-height: 590px;
+    background-repeat: no-repeat;
+    background-size: 110%;
+    border-radius: 5px;
+}
+
+#filtro-izquierdo{
+    float: left;
+    width: 45%;
+}
+
+#filtro-derecho{
+    float: left;
+    width: 40%;
+    padding-left: 30%;
+}
+#btn-filtro{
+    float: right;
+}
+
+#banner-destino{
+    height: 200px;
+    border-radius: 5px;
+    background-repeat: no-repeat;
+    padding-top: 50px;
+    padding-left: 75px;
+}
+.fa-whatsapp{
+    color: #46c152;
+}
+
+#paso-tour-1,#paso-tour-2,#paso-tour-3,#paso-tour-4,#paso-tour-5{
+    width: 210px;
+    float: left;
+}
+.msg-pasos-tour{
+    font-size: 25px;
+    min-width: 150px;
+    float: right; 
+}
+
+#pasos-compra-tours{
+    
+    display: inline-block;
+    margin-top: 30px;
+}
+
+#pasos-compra-tour{
+    height: 120px;
+    margin-top: 5px;
+    /*width: 100%;*/
+    text-align: center;
+    background-image: url('../images/fondo-pasos.jpg');  
+}
+
+#login-agentes{
+    margin-top: 40px;
+    margin-bottom: 40px; 
+}
+
+#lightgallery li{
+    margin: 5px;
+}
+#descripcion-corta{
+    display: block;
+    width: 400px;
+    float: left;
+}
+
+#descripcion-corta h3{
+    border-bottom: #268bd2 solid 2px;
+}
+
+#lista-tour-desc{
+ min-height: 170px;
+}
+
+.caption h3{
+    min-height: 100px;
+}
+nav.navbar.bootsnav{
+    z-index: 9999999 !important;
+}

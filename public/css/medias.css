@@ -1,0 +1,134 @@
+/* Pantallas grandes */
+@media (min-width: 1400px) {
+    #fondo-portada {
+        height: 430px;
+        padding-top: 7%;
+        padding-left: 130px;
+        background-size: 100%;
+        background-repeat: no-repeat;
+        background-image: url('../images/portadas/portada-2.jpg');
+    }
+}
+
+/* Laptops y tablets apaisadas */
+@media (min-width: 768px) and (max-width: 979px) {
+
+}
+
+/* Tablets */
+@media (max-width: 767px) {
+
+}
+
+/* Teléfonos */
+@media (max-width: 480px) {
+    .h3, h3{
+        font-size: 19px !important;
+    }
+    html, body {
+        width: 100%;
+        height: auto;
+        margin: 0;
+        padding: 0;
+        overflow-x:visible !important;
+    }
+    #buscar-destino-wrap{
+        width: 100% !important;
+        max-width: 100% !important;
+    }
+
+    #fondo-portada{
+        padding: 0px !important;
+        height: 215px;
+        background-size: auto;
+    }
+
+    #btn-buscar-portada{
+        width: 100%;
+        margin: 0px;
+    }
+
+    #pasos-compra{
+        padding: 35px !important;
+    }
+    #pasos-wrap{
+        background-size:auto ;
+        background-repeat: repeat;
+    }
+
+    .lista-garantias ul li {
+        text-align: left;
+        font-size: 15px;
+        padding: 5px;
+    }
+    .lista-garantias ul {
+        list-style: none;
+        padding: 0px;
+    }
+    .menu-footer a {
+        display: block;
+        width: 96%;
+        padding: 10px;
+        text-align: center;
+        background-color: gainsboro;
+        margin: 3px;
+        border-radius: 10px;
+    }
+    #info-footer {
+        height: 280px;
+        background-color: #268bd2;
+        /*    margin-top: 380px;*/
+        font-size: 16px;
+        color: #fff;
+
+    }
+    #footer-gris {
+        background-color: #f4f4f4;
+        height: 650px;
+        /* margin-bottom: 30px; */
+        /* padding-top: 50px; */
+    }
+    .list-footer-menu {
+        padding-top: 5px;
+    }
+
+    #select-destino-portada{
+        font-size: 18px; 
+        line-height: 46px; 
+        height: 46px; 
+        padding: 0px; 
+        margin-left: 0px !important;   
+    }
+    #buscar-destino-wrap .btn{
+        width: 100%;
+        margin-top: 20px;
+    }
+    #lista-filtros .btn{
+        width: 100%;
+        margin-top:5px;
+    }
+    #buscador{
+        width: 90% !important;
+    }
+    #buscador .btn{
+        width: 100%;
+        margin-top: 10px;  
+    }
+    #moneda-menu-item{
+        display: none;
+    }
+    #categoria{
+    margin-top: 5px;
+}
+
+#pasos-compra-tour{
+    height: auto;
+}
+#paso-tour-1, #paso-tour-2, #paso-tour-3, #paso-tour-4, #paso-tour-5{
+    width: 100%;
+    float: none;
+}
+.count{
+  font-size: 24px;  
+}
+}

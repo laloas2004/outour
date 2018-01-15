@@ -1,0 +1,16 @@
+
+#ResuDescTour{
+    width: 80%;
+    margin: auto;
+    text-align: left;
+}
+
+#header{
+    height: 150px;
+}
+
+.toolbar{
+    padding: 10px;
+    margin: 10px;
+    background-color:#007fff;
+}
