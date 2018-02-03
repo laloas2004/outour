@@ -45,7 +45,7 @@ class CheckoutController extends Controller {
 
         parent::__construct();
 
-//        $this->middleware('auth', ['except' => 'getLogout']);
+        $this->middleware('auth', ['except' => 'getLogout']);
 
         // setup PayPal api context
         $paypal_conf = config('paypal');
@@ -64,6 +64,7 @@ class CheckoutController extends Controller {
         $data['tour']['destino'] = \App\Tour::find($tourid['id'])->destino->toArray();
 
         $data['user'] = auth()->user();
+        
         $socio = Socio::where('IdUsuario', $data['user']->id)->get();
 
         $data['comision'] = Config::find(1)->valor;
