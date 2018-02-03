@@ -36,7 +36,7 @@
                         contratación y conjuntamente con las reservaciones, las Confirmaciones de
                         Compra correspondientes y los demás Documentos Contractuales del Sitio y rigen
                         la relación que existe entre <b style='mso-bidi-font-weight:normal'>Promociones
-                            y Servicios Outlet Tours, S .A de C. V. (&quot;HRTOUR&quot;)</b> y los <b
+                            y Servicios Outlet Tours, S .A de C. V. (&quot;outour&quot;)</b> y los <b
                             style='mso-bidi-font-weight:normal'>Socios</b> que utilizan el Sitio web y
                         adquieren mercancías a través de medios electrónicos y/o<span
                             style='mso-spacerun:yes'>  </span>las personas que visitan el Sitio web y
@@ -54,7 +54,7 @@
                 <p class=MsoNormal style='margin-bottom:10.8pt;text-align:justify;line-height:
                    15.0pt;background:white'><b style='mso-bidi-font-weight:normal'><span
                             style='font-size:9.0pt;font-family:"Arial","sans-serif";mso-fareast-font-family:
-                            "Times New Roman";mso-fareast-language:ES-MX'>HRTOUR </span></b><span
+                            "Times New Roman";mso-fareast-language:ES-MX'>outour </span></b><span
                         style='font-size:9.0pt;font-family:"Arial","sans-serif";mso-fareast-font-family:
                         "Times New Roman";mso-fareast-language:ES-MX'>ha desarrollado una Tienda en
                         Línea para que cualquier Socio, localizado en México o en el extranjero, pueda
@@ -68,23 +68,23 @@
                 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
                    text-align:justify;line-height:12.75pt;mso-outline-level:4;background:white'><b><span
                             style='font-size:9.0pt;font-family:"Arial","sans-serif";mso-fareast-font-family:
-                            "Times New Roman";mso-fareast-language:ES-MX'>2. Declaraciones de HRTOUR<o:p></o:p></span></b></p>
+                            "Times New Roman";mso-fareast-language:ES-MX'>2. Declaraciones de outour<o:p></o:p></span></b></p>
 
                 <p class=MsoNormal style='margin-bottom:10.8pt;text-align:justify;line-height:
                    15.0pt;background:white'><b style='mso-bidi-font-weight:normal'><span
                             style='font-size:9.0pt;font-family:"Arial","sans-serif";mso-fareast-font-family:
-                            "Times New Roman";mso-fareast-language:ES-MX'>HRTOUR</span></b><span
+                            "Times New Roman";mso-fareast-language:ES-MX'>outour</span></b><span
                         style='font-size:9.0pt;font-family:"Arial","sans-serif";mso-fareast-font-family:
                         "Times New Roman";mso-fareast-language:ES-MX'> declara:<span
                             style='mso-spacerun:yes'>  </span>que <b style='mso-bidi-font-weight:normal'>Promociones
                             y Servicios Outlet Tour, S. A. de C. V</b>., es una sociedad mercantil
                         constituida de conformidad con las leyes de los Estados Unidos Mexicanos;<span
-                            style='mso-spacerun:yes'>  </span>que HRTOUR realiza la función de
+                            style='mso-spacerun:yes'>  </span>que outour realiza la función de
                         intermediación entre el SOCIO y el PRESTADOR DE SERVICIOS turísticos,
-                        localizadas en diversos puntos del territorio nacional; que HRTOUR tiene como
+                        localizadas en diversos puntos del territorio nacional; que outour tiene como
                         actividad primordial de negocios el vender a sus afiliados las mercancías y los
                         servicios turísticos a un precio preferencial; que <b style='mso-bidi-font-weight:
-                                                                              normal'>HRTOUR</b> ha desarrollado su sitio web con el propósito de que los
+                                                                              normal'>outour</b> ha desarrollado su sitio web con el propósito de que los
                         Socios puedan adquirir a través de medios electrónicos los servicios turísticos
                         de su preferencia que se muestran en nuestro sitio web, en los términos que las
                         partes acuerden en la Orden de Compra y la Confirmación de Compra
@@ -102,7 +102,7 @@
                         edad y contar con plena capacidad jurídica para poder obligarse en términos del
                         presente contrato: ostentar la calidad de Socio; tener su domicilio ubicado,
                         para efectos de este contrato, en la dirección que ha proporcionado a <b
-                            style='mso-bidi-font-weight:normal'>HRTOUR</b> en su solicitud de afiliación o
+                            style='mso-bidi-font-weight:normal'>outour</b> en su solicitud de afiliación o
                         en el registro de su cuenta en línea;<span style='mso-spacerun:yes'> 
                         </span>que desea registrarse en el Sitio web para crear una cuenta que se
                         encuentre asociada a su membresía y le permita adquirir servicios turísticos de
@@ -123,7 +123,7 @@
                         Contractuales del Sitio establecen las condiciones generales de contratación
                         que son aplicables:<span style='mso-spacerun:yes'>  </span>de manera supletoria
                         a las operaciones de compraventa que se llevan a cabo entre <b
-                            style='mso-bidi-font-weight:normal'>HRTOUR</b> y los Socios en el sitio web. <b><span
+                            style='mso-bidi-font-weight:normal'>outour</b> y los Socios en el sitio web. <b><span
                                 style='mso-font-kerning:18.0pt'><o:p></o:p></span></b></span></p>
 
                 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
@@ -264,7 +264,7 @@
                     "Times New Roman";mso-fareast-language:ES-MX'>&nbsp;están cotizadas en
                     diferentes tipos de monedas, en caso de cualquier tipo de moneda diferente a
                     pesos mexicanos el monto mostrado es informativo de acuerdo al tipo de cambio
-                    establecido por HRTOUR en ese momento, el monto de la transacción será cobrado
+                    establecido por outour en ese momento, el monto de la transacción será cobrado
                     a su tarjeta en pesos mexicanos al tipo de cambio vigente al día de la
                     transacción. Favor de tomar en cuenta que el monto que aparecerá en su recibo
                     de pago de su tarjeta de crédito, puede variar en o hasta un tres por ciento
@@ -303,7 +303,7 @@
                 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
                    justify;line-height:15.6pt;background:white;vertical-align:baseline'><span
                         style='font-size:9.0pt;font-family:"Arial","sans-serif";mso-fareast-font-family:
-                        "Times New Roman";mso-fareast-language:ES-MX'>HRTOUR presta servicios
+                        "Times New Roman";mso-fareast-language:ES-MX'>outour presta servicios
                         únicamente como agente intermediario entre el cliente y el proveedor de los
                         servicios turísticos promocionados en esta página www.outour.mx, La agencia
                         elige cuidadosamente sólo a los proveedores más calificados y de prestigio para
@@ -315,7 +315,7 @@
                 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
                    justify;line-height:15.6pt;background:white;vertical-align:baseline'><span
                         style='font-size:9.0pt;font-family:"Arial","sans-serif";mso-fareast-font-family:
-                        "Times New Roman";mso-fareast-language:ES-MX'>Usted libera a HRTOUR sobre
+                        "Times New Roman";mso-fareast-language:ES-MX'>Usted libera a outour sobre
                         cualquier responsabilidad ante cualquier falla o falta de cumplimiento por
                         parte del Proveedor o Proveedores directos de los servicios turísticos,
                         incluyendo sin limitación alguna cualquier falla o cumplimiento por parte de
@@ -326,7 +326,7 @@
                         deportes de aventura y deportes extremos, parques acuáticos, parques
                         ecológicos, y en general sobre cualquier falla o falta de cumplimiento por
                         parte de todos aquellos servicios turísticos que sean proporcionados de manera
-                        directa por uno o varios proveedores y no de manera directa por HRTOUR.<o:p></o:p></span></p>
+                        directa por uno o varios proveedores y no de manera directa por outour.<o:p></o:p></span></p>
 
                 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
                    justify;line-height:15.6pt;background:white;vertical-align:baseline'><span
@@ -335,17 +335,17 @@
                         falle en el cumplimiento de alguno de sus servicios, por los cuales ya haya
                         realizado el pago, el solo recurso del reembolso deberá tramitarse directamente
                         ante el proveedor que falló en la prestación de sus servicios, a menos que el
-                        anterior fallo sea ocasionado de manera directa por HRTOUR. La empresa no asume
-                        responsabilidad ante usted y usted libera de toda responsabilidad a HRTOUR por
+                        anterior fallo sea ocasionado de manera directa por outour. La empresa no asume
+                        responsabilidad ante usted y usted libera de toda responsabilidad a outour por
                         actos, omisiones o cualquier tipo de queja o insatisfacción derivados de los
                         servicios proporcionados por los proveedores directos de servicios anunciados
-                        en este sitio web, en virtud de que HRTOUR no tiene control alguno o relación
+                        en este sitio web, en virtud de que outour no tiene control alguno o relación
                         legal sobre su personal, equipo, operación o bienes.<o:p></o:p></span></p>
 
                 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
                    justify;line-height:15.6pt;background:white;vertical-align:baseline'><span
                         style='font-size:9.0pt;font-family:"Arial","sans-serif";mso-fareast-font-family:
-                        "Times New Roman";mso-fareast-language:ES-MX'>Así mismo HRTOUR no será
+                        "Times New Roman";mso-fareast-language:ES-MX'>Así mismo outour no será
                         responsable y usted libera de toda responsabilidad a este sitio respecto de:<o:p></o:p></span></p>
 
                 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
@@ -360,7 +360,7 @@
                    justify;line-height:15.6pt;background:white;vertical-align:baseline'><span
                         style='font-size:9.0pt;font-family:"Arial","sans-serif";mso-fareast-font-family:
                         "Times New Roman";mso-fareast-language:ES-MX'>2. Las descripciones de los
-                        diversos servicios promocionados son actualizadas por HRTOUR constantemente y a
+                        diversos servicios promocionados son actualizadas por outour constantemente y a
                         su mejor conocimiento, pero no garantizan que todo será exactamente igual a su
                         llegada.<o:p></o:p></span></p>
 
@@ -368,7 +368,7 @@
                    justify;line-height:15.6pt;background:white;vertical-align:baseline'><span
                         style='font-size:9.0pt;font-family:"Arial","sans-serif";mso-fareast-font-family:
                         "Times New Roman";mso-fareast-language:ES-MX'>3. Los términos y condiciones y/o
-                        políticas de los proveedores directos de servicios. HRTOUR no asumirá
+                        políticas de los proveedores directos de servicios. outour no asumirá
                         responsabilidad alguna y usted libera de toda responsabilidad a esta agencia,
                         así como de toda reclamación, costo, gasto o pérdida que usted pudiera sufrir
                         incluyendo cualquier herida personal o de terceras personas, accidentes o
@@ -383,17 +383,17 @@
                         constante del sitio web existe la remota posibilidad de que la vigencia de
                         algunos precios haya expirado o provenga de información erróneamente
                         proporcionada por los proveedores del servicio. En caso de que el precio
-                        correcto sea menor a la cantidad cotizada, HRTOUR aplicará el monto menor. En
+                        correcto sea menor a la cantidad cotizada, outour aplicará el monto menor. En
                         caso de que el precio correcto sea mayor a la cantidad cotizada se le informará
                         la cantidad correcta o bien registrando la cancelación de la reservación a
                         petición suya por no estar de acuerdo con el incremento en precio, deslindando
-                        a HRTOUR y el proveedor de servicio de cualquier responsabilidad o pago de
+                        a outour y el proveedor de servicio de cualquier responsabilidad o pago de
                         indemnización por inconvenientes causados por dicha cancelación.<o:p></o:p></span></p>
 
                 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
                    justify;line-height:15.6pt;background:white;vertical-align:baseline'><span
                         style='font-size:9.0pt;font-family:"Arial","sans-serif";mso-fareast-font-family:
-                        "Times New Roman";mso-fareast-language:ES-MX'>HRTOUR se declina de cualquier
+                        "Times New Roman";mso-fareast-language:ES-MX'>outour se declina de cualquier
                         responsabilidad derivada del incumplimiento por parte del usuario de los
                         reglamentos, reglas o condiciones establecidas por cada uno de los prestadores
                         de servicios contratados.<o:p></o:p></span></p>
@@ -401,7 +401,7 @@
                 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
                    justify;line-height:15.6pt;background:white;vertical-align:baseline'><span
                         style='font-size:9.0pt;font-family:"Arial","sans-serif";mso-fareast-font-family:
-                        "Times New Roman";mso-fareast-language:ES-MX'>HRTOUR se reserva el derecho de
+                        "Times New Roman";mso-fareast-language:ES-MX'>outour se reserva el derecho de
                         rechazar a cualquier cliente en cualquier momento.<o:p></o:p></span></p>
 
                 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
@@ -470,7 +470,7 @@
                         style='font-size:9.0pt;font-family:"Arial","sans-serif";mso-fareast-font-family:
                         "Times New Roman";mso-fareast-language:ES-MX'>Si por causas de fuerza mayor o
                         casos fortuitos, los prestadores de los servicios contratados no pudieran
-                        proporcionarlos parcial o totalmente los servicios, HRTOUR solo gestionará por
+                        proporcionarlos parcial o totalmente los servicios, outour solo gestionará por
                         cuenta del usuario y se limitará al reembolso del importe que proceda con
                         exclusión de cualquier otro compromiso.<o:p></o:p></span></p>
 
@@ -479,7 +479,7 @@
                         style='font-size:9.0pt;font-family:"Arial","sans-serif";mso-fareast-font-family:
                         "Times New Roman";mso-fareast-language:ES-MX'>La agencia se reserva el derecho
                         de modificar el orden de los servicios indicados en el presente sitio web para
-                        un mejor desarrollo de los mismos o por causas que así lo justifiquen. Cuando HRTOUR
+                        un mejor desarrollo de los mismos o por causas que así lo justifiquen. Cuando outour
                         sea quien cancele un viaje o excursión de cualquier naturaleza por causas
                         ajenas al cliente, estará obligado pero limitado a reembolsarle la totalidad de
                         los anticipos o pagos que haya efectuado.<o:p></o:p></span></p>
@@ -524,14 +524,14 @@
                         decir verdad, compareciendo por su propio y personal derecho que es una persona
                         física o moral, mayor de edad, hábil, y con los medios suficientes o con
                         capacitad económica e interés en adquirir los servicios de intermediación y
-                        reservación que aquí se especifican, y que para ello recurre al sitio de HRTOUR
+                        reservación que aquí se especifican, y que para ello recurre al sitio de outour
                         que funciona únicamente como&nbsp;<b>intermediario</b>&nbsp;entre usted y los
                         proveedores prestadores directos de servicios turísticos.<o:p></o:p></span></p>
 
                 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
                    justify;line-height:15.6pt;background:white;vertical-align:baseline'><b><span
                             style='font-size:9.0pt;font-family:"Arial","sans-serif";mso-fareast-font-family:
-                            "Times New Roman";mso-fareast-language:ES-MX'>HRTOUR</span></b><span
+                            "Times New Roman";mso-fareast-language:ES-MX'>outour</span></b><span
                         style='font-size:9.0pt;font-family:"Arial","sans-serif";mso-fareast-font-family:
                         "Times New Roman";mso-fareast-language:ES-MX'>&nbsp;declara (a) ser una
                         sociedad mercantil debidamente constituida conforme a las leyes mexicanas. (b)

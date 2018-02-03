@@ -7,7 +7,7 @@
     <div class="row col-md-10" style="margin-top:40px;font-size: 20px;text-align: justify;">
 
         <p>
-            <strong>HRTOUR</strong> es un proyecto que nace de la unión de dos amigos, los cuales tuvieron la visión de crear un club de socios, para que cada uno de ellos pueda descubrir y disfrutar de las hermosas maravillas naturales que ofrecen los principales centros vacacionales en México.
+            <strong>outour</strong> es un proyecto que nace de la unión de dos amigos, los cuales tuvieron la visión de crear un club de socios, para que cada uno de ellos pueda descubrir y disfrutar de las hermosas maravillas naturales que ofrecen los principales centros vacacionales en México.
         </p><p>
             Al pertenecer a este club de socios, tendrás la oportunidad de realizar emocionantes actividades a los mejores precios de outlet, ya que hemos creado un enlace entre los principales operadores de actividades turística del país y nuestros socios, permitiéndoles disfrutar de las actividades tales como buceo, snorkel, manejo de Atv, tirolesas, parques de diversión, campismo, etc. al mejor precio del mercado, brindando hasta un 50 % de descuento.
         </p><p>
@@ -27,7 +27,7 @@
     <div class="col-md-1"></div>
     <div class="row col-md-10" style="margin-bottom: 40px;">
         <div class="" style="width: 50%; float: left; text-align: justify; margin-top: 30px;">
-            <p>HRTOUR pretende convertirse en el vendedor de activades turísticas en grupo de comisionistas más grande del mundo, teniendo representantes independientes en cada uno de los países.</p>
+            <p>outour pretende convertirse en el vendedor de activades turísticas en grupo de comisionistas más grande del mundo, teniendo representantes independientes en cada uno de los países.</p>
             <p>Ofreciendo a nuestros representantes independientes la oportunidad de generar ingresos, combinando trabajo y diversión</p>
         </div>
         <div class="" style="width: 50%; float: right;">

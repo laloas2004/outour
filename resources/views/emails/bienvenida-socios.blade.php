@@ -4,7 +4,7 @@
 
 <h2>{{$socio->NombSocio}}</h2>
 
-<p>En primer lugar, queremos darle la más cordial bienvenida, personalmente y en nombre de todo el equipo de HRTOUR y también agradecerle la confianza que nos ha mostrado haciéndose socio de nuestro Club.
+<p>En primer lugar, queremos darle la más cordial bienvenida, personalmente y en nombre de todo el equipo de outour y también agradecerle la confianza que nos ha mostrado haciéndose socio de nuestro Club.
     A partir de ahora nosotros seremos cómplices de usted, en la búsqueda de la diversión y el entretenimiento en todas sus vacaciones </p>
 
 <p>La misión de nuestra empresa es ayudarle a disfrutar más actividades y a recorrer más lugares con un presupuesto muy bajo y con la misma o mejor calidad en el servicio. 

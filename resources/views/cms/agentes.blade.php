@@ -9,7 +9,7 @@
 <div class="row" >
     <div class="col-md-6 col-md-offset-1" id="contenedor-agente">
         <div id="msg-afiliados">
-            <h1>HRTOUR</h1> 
+            <h1>outour</h1> 
             <strong><h3>les da la bienvenida</h3></strong>
             <div> Registrate aqui y un ejecutivo te solicitara la documentación requerida, para que recibas tu cuenta de usuario, con la que tu podras
                 recibir grandes comisiones por cada operación de venta realizada.</div></div>

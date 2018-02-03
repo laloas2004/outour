@@ -15,7 +15,7 @@
                             <table style="width:95%" class=" table table-striped">
                                 <thead>
                                 <th>Precio Regular</th>
-                                <th>Precio HRTOUR.MX</th>
+                                <th>Precio outour.MX</th>
                                 <th>Tipo</th>
                                 <th>Cant.</th>
                                 <th>SubTotal</th>
@@ -69,7 +69,7 @@
                                     <tr>
                                         <td colspan="3">Ahorro Total:</td>
                                         <td colspan="2">{{precio($totales['ahorro'])}}</td>
-                                        <td colspan="2">Con HRTOUR Ahorra el <strong>{{$totales['pctAhorro']}}%</strong></td>
+                                        <td colspan="2">Con outour Ahorra el <strong>{{$totales['pctAhorro']}}%</strong></td>
 
                                     </tr>
                                 </tbody>

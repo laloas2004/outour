@@ -30,7 +30,7 @@
 <div  class="row" id="info-footer">
     <div class="container">
         <div class="col-md-4"><p>
-                HRTOUR.MX | 2016 Derechos Reservados.
+                outour.mx | 2016 Derechos Reservados.
             </p></div>
         <div class="col-md-4"><center><img width="150px"src="{{url('/images')}}/PayPal-logo.png" style='margin:10px;'></center></div>
         <div class="col-md-4"><p>

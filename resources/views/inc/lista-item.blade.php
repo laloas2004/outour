@@ -18,7 +18,7 @@
             <div class="precio-lista-item">
                 
                 <div class="precio">Precio Reg.<br><span>{{precio($tour['PrecTour'])}}</span></div>
-                <div class="precio-desc">Precio HRTOUR.MX <br><span>{{precio($tour['PrecTourDesc'])}}</span></div>
+                <div class="precio-desc">Precio outour.mx <br><span>{{precio($tour['PrecTourDesc'])}}</span></div>
                 <div class="ver-mas-btn">
                 <a class="btn btn-primary btn-lg" href="{{url('/tour/')}}/{{$tour['id']}}">Ver Detalles</a>
                 </div>

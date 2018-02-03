@@ -92,7 +92,7 @@
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
                     <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand" href="{{url('/')}}"><img src="{{url('/images/logo.jpg')}}" class="logo" alt="HrTours.mx"></a>
+                <a class="navbar-brand" href="{{url('/')}}"><img src="{{url('/images/logo.jpg')}}" class="logo" alt="outours.mx"></a>
             </div>
             <!-- End Header Navigation -->
 

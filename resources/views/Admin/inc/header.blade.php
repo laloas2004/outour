@@ -74,7 +74,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="#">Admin HrTours.mx</a>
+                    <a class="navbar-brand" href="#">Admin outours.mx</a>
                 </div>
 
                 <!-- Collect the nav links, forms, and other content for toggling -->

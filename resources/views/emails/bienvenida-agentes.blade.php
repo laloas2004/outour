@@ -2,7 +2,7 @@
 
 <div style="width: 100%;"><img src="http://45.55.166.98/images/logo.jpg"></div>
 <h1>Bienvenidos</h1>
-<p> HRTOUR les da la mas cordial bienvenida a su selecto grupo de agentes afiliado,
+<p> outour les da la mas cordial bienvenida a su selecto grupo de agentes afiliado,
     donde podran obtener ingresos de una forma sencilla y segura, asi como grandes recompensas por volumen de
     venta. </p>
 
