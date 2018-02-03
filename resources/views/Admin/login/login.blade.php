@@ -6,7 +6,7 @@
         <div class="row">
             <div class="col-md-6 col-md-offset-3">
                 <div class="panel panel-default">
-                    <div class="panel-heading">ADMIN DE outourS</div>
+                    <div class="panel-heading">ADMIN DE OUTOUR.MX</div>
                     <div class="panel-body">
                         <form action="{{url('admin/auth/login')}}" method="POST" class="form">
                               <?php echo csrf_field(); ?>
