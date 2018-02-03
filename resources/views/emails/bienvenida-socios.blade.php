@@ -1,6 +1,6 @@
 
 
-<div style="width: 100%;"><img src="http://45.55.166.98/images/logo.jpg"></div>
+<div style="width: 100%;"><img src="http://138.197.221.69/images/logo.jpg"></div>
 
 <h2>{{$socio->NombSocio}}</h2>
 
