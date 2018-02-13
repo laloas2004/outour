@@ -44,7 +44,7 @@ class tourController extends Controller {
         $data['destinos'] = Destino::all();
         $data['categorias'] = Categoria::all();
 
-        return view('Admin.tours.new_tour', $data);
+        return view('admin.tours.new_tour', $data);
     }
 
     public function saveTour(Request $request) {
@@ -159,7 +159,7 @@ class tourController extends Controller {
 
         //var_dump($data['images']);
 
-        return view('Admin.tours.edit_tour', $data);
+        return view('admin.tours.edit_tour', $data);
     }
 
     public function deleteTour(Request $request) {
