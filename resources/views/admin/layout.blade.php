@@ -1,5 +1,5 @@
 
-            @include('Admin/inc/header')
+            @include('admin/inc/header')
             
             
             
@@ -16,6 +16,6 @@
                 @include('flash::message')
                 @yield('content')
             
-            @include('Admin/inc/scripts')
-            @include('Admin/inc/footer')
+            @include('admin/inc/scripts')
+            @include('admin/inc/footer')
             </div>
