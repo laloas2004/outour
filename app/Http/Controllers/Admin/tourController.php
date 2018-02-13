@@ -36,7 +36,7 @@ class tourController extends Controller {
 
         $data['tours'] = $tours;
 
-        return view('Admin.tours.lista_tours', $data);
+        return view('admin.tours.lista_tours', $data);
     }
 
     public function newTour(Request $request) {
