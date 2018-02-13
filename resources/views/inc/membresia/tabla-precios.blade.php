@@ -16,7 +16,7 @@
                     <p class="lead" style="font-size:40px"><strong>$100.00 Usd</strong></p>
                 </div>
                 <ul class="list-group list-group-flush text-center">
-                    <li class="list-group-item"><i class="icon-ok text-info"></i> Vigencia de 5 Años</li>
+                    <li class="list-group-item"><i class="icon-ok text-info"></i> Vigencia de 3 Años</li>
                     <li class="list-group-item"><i class="icon-ok text-info"></i> Disfrútala con 8 integrantes de la familia</li>
                     <li class="list-group-item"><i class="icon-ok text-info"></i> Trato personalizado</li>
                     <li class="list-group-item"><i class="icon-ok text-info"></i> Precios garantizados</li>
